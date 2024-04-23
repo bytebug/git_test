@@ -1,0 +1,3 @@
+Hi there! This is David. It's my first time using Git & GitHub! Actually, it's not the first time.
+I've used them a few times before, but I don't remember much. So, I'm re-training myself to become proficient at Git & GitHub!!!!
+Yeah!!!!
