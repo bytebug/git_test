@@ -1,0 +1,5 @@
+This is a text file for testing and learning Git.
+Author: David C.
+Date: May 14th, 2024
+
+	I promise to myself again, that as of today, I will not stop not even for a single day, learning programming and development. Persistence triumphs over talent! Just remember that! Persistence will WIN, eventually!
